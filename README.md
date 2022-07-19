@@ -10,5 +10,5 @@
 > * Web Application Development
 
 #### Affiliations
-> [Miracle Factory](https://miraclefactory.co/)  
-> [University of Leeds](https://www.leeds.ac.uk/)
+> * [**Miracle Factory**](https://miraclefactory.co/)  
+> * [**University of Leeds**](https://www.leeds.ac.uk/)
