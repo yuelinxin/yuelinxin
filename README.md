@@ -5,7 +5,7 @@
 #### Bio 🤖
 > Hi there 👋, I'm **Yuelin Xin**.  
 > Currently an undergrad at University of Leeds.  
-> Also the co-founder and research fellow at [**MiracleFactory**](https://miraclefactory.co/), an AI development and research society.   
+> Also the co-founder and research fellow at [**MiracleFactory**](https://miraclefactory.co/).   
    
 #### Current field of interest 📓
 > * Computer Vision & Pattern Recognition  
