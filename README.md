@@ -16,8 +16,8 @@
     <td> 
     
 #### Affiliation 🏫
-> * [Miracle Factory](https://miraclefactory.co/)
-> * [University of Leeds](https://www.leeds.ac.uk/)
+> * [**Miracle Factory**](https://miraclefactory.co/)
+> * [**University of Leeds**](https://www.leeds.ac.uk/)
 
 #### My Stats 📈
 [![Yuelin Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuelinXin&show_icons=true&count_private=true)](https://github.com/YuelinXin/github-readme-stats)
