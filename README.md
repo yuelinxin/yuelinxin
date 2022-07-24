@@ -7,7 +7,7 @@
 > Currently an undergrad at University of Leeds.  
 > Also the co-founder and research fellow at [**MiracleFactory**](https://miraclefactory.co/), an AI development and research community.   
    
-#### Current field of interest 📓
+#### Current Field of Interest 📓
 > * Computer Vision & Pattern Recognition  
 > * Bioinformatics & Biological Neural Networks  
 > * Qt/PySide Software Development  
