@@ -2,7 +2,7 @@
   <tr>
     <td>
    
-#### Bio 🚀
+#### Biography 🚀
 > Hi there 👋, I'm **Yuelin Xin**.  
 > Currently an undergrad at University of Leeds.  
 > Also the co-founder and research fellow at [**MiracleFactory**](https://miraclefactory.co/), an AI development and research community.   
@@ -15,7 +15,7 @@
     </td>
     <td> 
     
-#### Affiliation 🏫
+#### Affiliations 🏫
 > * [**Miracle Factory**](https://miraclefactory.co/)
 > * [**University of Leeds**](https://www.leeds.ac.uk/)
 
