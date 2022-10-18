@@ -50,7 +50,7 @@ Then click on "Connect", you will be prompted to login to your university accoun
 
 2. Apple macOS
 
-<img src="/Users/yuelin_xin/Desktop/Screenshot 2022-10-18 at 14.58.31.png" alt="Screenshot 2022-10-18 at 14.58.31" style="zoom:50%;" />
+<img width="752" alt="macos" src="https://user-images.githubusercontent.com/89094576/196455999-a0e04b0a-08cc-4021-b99c-1f492d10afa2.png">
 
 The same trick with Windows, configure as above.
 
@@ -64,6 +64,6 @@ The website should auto-connect you to the university lab machines. If not, clic
 
 Your tab page should look like this:
 
-![Screenshot 2022-10-18 at 15.05.06](/Users/yuelin_xin/Desktop/Screenshot 2022-10-18 at 15.05.06.png)
+<img width="1682" alt="tabpage" src="https://user-images.githubusercontent.com/89094576/196456062-bf2845ea-0bd8-4223-8848-18bc2a613707.png">
 
 Login to your account as usual and you are good to go!
