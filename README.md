@@ -1,7 +1,7 @@
-<table border="0">
+<!-- <table border="0">
   <tr>
     <td>
-   
+    -->
 #### Biography 🚀
 > Hi there 👋, I'm **Yuelin Xin**.  
 > Currently an undergrad at [University of Leeds](https://www.leeds.ac.uk/).  
@@ -12,15 +12,15 @@
 > * Bioinformatics & Biological Neural Networks  
 > * Qt/PySide Software Development  
 > * Web Application Development    
-    </td>
-    <td> 
+<!--     </td>
+    <td>  -->
     
-#### Affiliations 🏫
+<!-- #### Affiliations 🏫
 > * [Miracle Factory](https://miraclefactory.co/)
-> * [University of Leeds](https://www.leeds.ac.uk/)
+> * [University of Leeds](https://www.leeds.ac.uk/) -->
 
 #### My Stats 📈
 [![Yuelin Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuelinXin&show_icons=true&count_private=true)](https://github.com/YuelinXin/github-readme-stats)
-    </td>
+<!--     </td>
   </tr>
-</table>
+</table> -->
