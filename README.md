@@ -4,7 +4,7 @@
     -->
 #### Biography 🚀
 > Hi there 👋, I'm **Yuelin Xin**.  
-> Currently an undergrad-level computer scientist at [University of Leeds](https://www.leeds.ac.uk/).  
+> Currently an undergrad-level AI/ML scientist at [University of Leeds](https://www.leeds.ac.uk/).  
 > Also the co-founder and research fellow at [Miracle Factory](https://miraclefactory.co/), an AI development and research community.   
    
 #### Current Field of Interest 📓
