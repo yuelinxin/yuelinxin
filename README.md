@@ -9,7 +9,6 @@
    
 #### Current Field of Interest 📓
 > * Computer Vision & Pattern Recognition  
-> * Bioinformatics & Biological Neural Networks  
 > * Language Development & Compiler Architecture  
 > * Qt/PySide Software Development  
 > * Web Application Development (full-stack)   
