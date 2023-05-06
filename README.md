@@ -4,7 +4,7 @@
     -->
 #### Biography 🚀
 > Hi there 👋, I'm **Yuelin Xin**, you can also call me **Jackie**.    
-> Currently an undergrad-level AI/ML scientist at [University of Leeds](https://www.leeds.ac.uk/) and [University of California, Irvine](https://uci.edu).  
+> Currently an undergrad-level AI/ML researcher at [University of Leeds](https://www.leeds.ac.uk/) and [University of California, Irvine](https://uci.edu).  
 > Also the co-founder and research fellow at [Miracle Factory](https://miraclefactory.co/), an AI development and research community.   
    
 #### Current Field of Interest 📓
