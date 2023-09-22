@@ -11,4 +11,4 @@
 > * Web Application Development (full-stack)   
 
 #### My Stats 📈
-[![Yuelin Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuelinXin&show_icons=true&count_private=true)](https://github.com/YuelinXin/github-readme-stats)
+[![Yuelin Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuelinxin&show_icons=true&count_private=true)](https://github.com/yuelinxin/github-readme-stats)
