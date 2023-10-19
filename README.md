@@ -5,7 +5,7 @@
 > [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/) and [AAAS](https://www.aaas.org/) member.
    
 #### Current Field of Interest 📓
-> * Computer Vision & Pattern Recognition  
+> * Computer Vision & Pattern Recognition
+> * Computer Vision for Medicine
 > * Language Development & Compiler Architecture  
-> * AI Regulations & AI Ethics
 > * Web Application Development (full-stack)   
