@@ -7,5 +7,5 @@
 #### Current Field of Interest 📓
 > * 3D Computer Vision   
 > * Computer Vision for Medicine
-> * Language Development & Compiler Architecture  
+> * Language Design & Compiler Architecture  
 > * Web Application Development (full-stack)   
