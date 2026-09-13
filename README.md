@@ -1,11 +1,10 @@
 #### Biography 🚀
 > Hi there 👋, I'm **Yuelin Xin**, you can also call me **Jackie**.    
-> Currently an AI/ML researcher at [University of California, Irvine](https://uci.edu), previously at [University of Leeds](https://leeds.ac.uk/).  
-> Also the co-founder and researcher at Cilix AI.         
+> Currently a PhD student at [University of California, Irvine](https://uci.edu), previously at [University of Leeds](https://leeds.ac.uk/).  
+> Also a senior research member at [LLLab](https://lllab.org).         
 > [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/) and [AAAS](https://www.aaas.org/) member.
    
-#### Current Field of Interest 📓
+#### Current Interests 📓
 > * 3D Computer Vision   
-> * Computer Vision for Medicine
-> * Language Design & Compiler Architecture  
-> * Web Application Development (full-stack)   
+> * Computer Vision for Medicine 
+> * Linux Native Software & Linux Ecosystems
