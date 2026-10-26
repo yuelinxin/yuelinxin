@@ -5,6 +5,7 @@
 > [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/) and [AAAS](https://www.aaas.org/) member.
    
 #### Current Interests 📓
-> * 3D Computer Vision   
+> * 3D Computer Vision
+> * Physics-Aware Learning
 > * Computer Vision for Medicine 
-> * Linux Native Software & Linux Ecosystems
+> * Everything Linux
